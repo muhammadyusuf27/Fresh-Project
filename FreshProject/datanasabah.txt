@@ -1,0 +1,5 @@
+doni, male, married, 30, jakarta, 3000000.0, 2, 10000000.0, 500000.0, 0.15,12
+rere, female, single, 22, bogor, 3300000.0, 0, 15000000.0, 1000000.0, 0.15,9
+darto, male, married, 35, depok, 3700000.0, 1, 10000000.0, 750000.0, 0.25, 18
+imam, male, single, 25, bandung, 2500000.0, 0, 5000000.0, 500000.0, 0.15, 12
+ridwan, male, married, 40, bekasi, 4700000.0, 0, 20000000.0, 1500000.0, 0.5, 9
